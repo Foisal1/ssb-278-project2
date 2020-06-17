@@ -1,0 +1,122 @@
+img{
+    max-width: 100%;
+}
+body{margin: 0;}
+header{
+    box-shadow: 0px 5px 20px 0px #3b506c12;
+    padding: 10px 0;
+}
+.wrapper{width: 1000px;margin: auto;overflow: hidden;}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{}
+nav{
+    width: 80%;
+    float: left;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+nav ul li a{
+    font-size: 20px;
+    color: #3b506c;
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+}
+nav ul li a:hover{
+    color: #0c66ff;
+}
+
+section{}
+.about-section{
+    text-align: center;
+    padding:  35px 0;
+}
+.about-section h1{
+    font-size: 65px;
+    color: #3b506c;
+    margin: 0 auto;
+    max-width: 700px;
+}
+.about-section h1 span{
+    color: #0c66ff;
+}
+.about-section p{
+    color: #3b506c;
+    margin: 0;
+    font-size: 15px;
+}
+section img{
+    margin: auto;
+    display: block;
+    max-width: 450px;
+}
+.feature-section{color: #3b506c;}
+.column{
+    width: 50%;
+    float: left;
+}
+.feature{
+    padding: 30px;
+}
+.feature h2{
+    font-size: 55px;
+    margin: auto;
+}
+.feature h2 span{
+    color: #ea3c3c;
+}
+.feature p{
+}
+.aling-right{
+    text-align: right;
+}
+.blog-section{
+    padding: 10px;
+}
+.col{
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.blog{
+    box-shadow: 10px 10px 10px #3b506c14;
+    padding: 20px;
+    border-radius: 15px;
+}
+.blog img{
+    width: 200px;
+    height: 250px;
+}
+.blog h3{
+    font-size: 25px;
+    color: #3b506c;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.blog p{
+    font-size: 16px;
+    color: #3b506c;
+    text-align: center;
+    margin: 0;
+}
+.red{
+    background-color: #FDEBED;
+}
+.blue{
+    background-color: #EBF9F4;
+}
+.orange{
+    background-color: #FFF7E8;
+}
