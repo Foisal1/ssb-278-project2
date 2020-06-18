@@ -95,20 +95,18 @@ section img{
     border-radius: 15px;
 }
 .blog img{
-    width: 200px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
 }
 .blog h3{
     font-size: 25px;
     color: #3b506c;
     margin: auto;
-    text-align: center;
     margin-bottom: 10px;
 }
 .blog p{
     font-size: 16px;
     color: #3b506c;
-    text-align: center;
     margin: 0;
 }
 .red{
